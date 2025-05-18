@@ -1,0 +1,1 @@
+This is a static flight booking and travel website built with HTML, CSS, Javscript. The template includes a homepage, a contact page, and various components for displaying flight offers, sliders, and responsive UI elements.
